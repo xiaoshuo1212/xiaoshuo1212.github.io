@@ -1,13 +1,13 @@
 ---
-__Advertisement :)__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
+layout:     post
+title:      Markdown
+subtitle:   Markdown Sample
+date:       2022-07-29
+author:     Joe
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - markdown
 ---
 
 # h1 Heading 8-)
