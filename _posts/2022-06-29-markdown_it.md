@@ -156,6 +156,9 @@ With a reference later in the document defining the URL location:
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
+<figure>
+<img src="../img/tabular-report.png" width="200" height="100">
+</figure>
 
 ## Plugins
 
